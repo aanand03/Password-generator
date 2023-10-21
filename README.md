@@ -1,4 +1,4 @@
-(Click here to visit Site)[https://aanand03.github.io/Password-generator/]
+[Click here to visit Site](https://aanand03.github.io/Password-generator/)
 
 
 # React + Vite
